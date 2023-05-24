@@ -42,8 +42,6 @@ distanceQtrE= qtrE.getValue();
 corBrancaD =qtrD.getcolorWhite();
 corBrancaE =qtrE.getcolorWhite();
 
-// Construtor 
-
 sumo_n sumoV1(corBrancaD,corBrancaE,distance,55,500,800);
 
 speedD = sumoV1.getRSpeed();
